@@ -39,5 +39,10 @@
 	<classpathentry kind="lib" path="C:/Users/Robob/Downloads/resteasyJPACRUD (3)/resteasyJPACRUD/WEB-INF/lib/resteasy-jackson-provider-2.2.1.GA.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Robob/Downloads/resteasyJPACRUD (3)/resteasyJPACRUD/WEB-INF/lib/resteasy-jaxb-provider-2.0-beta-2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Robob/Downloads/resteasyJPACRUD (3)/resteasyJPACRUD/WEB-INF/lib/resteasy-jaxrs-2.0-beta-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Robob/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Robob/Downloads/jackson-databind-2.9.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Robob/Downloads/jackson-core-2.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Robob/Downloads/jackson-annotations-2.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Robob/Downloads/jsoup-1.16.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
